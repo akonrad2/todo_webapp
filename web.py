@@ -37,5 +37,3 @@ st.text_input(label="",
               placeholder="Add or edit a to-do...",
               on_change=add_todo,
               key="new_todo")
-
-# st.session_state
